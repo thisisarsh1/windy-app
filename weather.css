@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+    background-image: url(https://wallpapercave.com/wp/wp6680336.jpg);
+
+    background-size: cover;
+}
+#top{
+    text-align: center;
+    size: 25px;
+    text-decoration: underline;
+}
+.col{
+  color: rgba(240, 248, 255, 0);
+}
+.navbar.transparent.navbar-inverse .navbar-inner {
+  background: rgba(0,0,0,0.4);
+}
